@@ -9,6 +9,10 @@ O arquivo *teste_dsbrigade.ipynb* contém o código do teste. De acordo com as c
 7. Cria tabela com estatísticas descritivas.
 8. Remove variáveis desnecessárias.
 
+A fim de se reduzir a quantidade de arquivos que seriam enviados para o GitHub, o código baixa os arquivos a partir de uma URL.
+**Os caminhos em que os arquivos são salvos devem ser modificados de acordo com o caminho utilizado**
+
+
 ### Resultados e Discussão
 Os cinco principais itens de compra de orgãos públicos do Rio Grande do Sul e suas respectivas estatísticas descritivas (média, mediana, desvio padrão, valor máximo e mínimo) do valor de compra de cada item, nos anos de 2016 a 2019, estão apresentadas nas Figuras de 1 a 4.
 
