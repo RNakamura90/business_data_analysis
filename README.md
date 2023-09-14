@@ -1,5 +1,5 @@
-## Teste técnico - Data Science Brigade
-O arquivo *teste_dsbrigade.ipynb* contém o código do teste. De acordo com as células, o código realiza: 
+## Teste técnico
+O arquivo *teste.ipynb* contém o código do teste. De acordo com as células, o código realiza: 
 1. Importação das bibliotecas necessárias.
 2. Cria lista das colunas necessárias.
 3. Importa os arquivos da URL e salva em variáveis.
